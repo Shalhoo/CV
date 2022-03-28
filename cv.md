@@ -1,6 +1,7 @@
+![CV-photo](cv.png "CV-photo")
 # Hello, i am **Penkina Aleksandra**
 ### Junior Web Developer
-===================================
+---
 ## Something about myself. 
 ### I am 20 years old student with good communications skills and high ability to studying. Trying lots of different specialities and learning such different things from different spheres, so now I can integrate all of these knowledges into any others.
 
@@ -40,10 +41,10 @@
 * [_LinkedIn_](https://www.linkedin.com/in/aleksandra-penkina-815054225 "LinkedIn")
 
 ## Code examples
-'''
+```
 public class Multiply {
     public static Double multiply(Double a, Double b) {
         return a * b;
     }
 }
-'''
+```
