@@ -50,3 +50,6 @@ public class Multiply {
 * _Email_ shalhoo88@gmail.com
 * _Telegram_ Sghagn
 * [_LinkedIn_](https://www.linkedin.com/in/aleksandra-penkina-815054225 "LinkedIn")
+
+
+![CV-photo](cv-end.png "CV-photo")
