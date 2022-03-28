@@ -1,4 +1,4 @@
-![CV-photo](cv.png "CV-photo")
+![CV-photo](cv-photo.png "CV-photo")
 # Hello, i am **Penkina Aleksandra**
 ### Junior Web Developer
 ---
@@ -16,6 +16,12 @@
 * AutoCAD, Adobe Inventor
 
 
+## Languages
+* Russian **native**
+* English **B2**
+* Korean **A2**
+
+
 ## Education
 1. University:
 1.1 Moscow Aviation Institute
@@ -29,17 +35,6 @@ Institute №3 'Learning center of computer technology'
 ## Work experience -
 
 
-## Languages
-* Russian **native**
-* English **B2**
-* Korean **A2**
-
-## Contacts
-* _Phone_ +79220305690
-* _Email_ shalhoo88@gmail.com
-* _Telegram_ Sghagn
-* [_LinkedIn_](https://www.linkedin.com/in/aleksandra-penkina-815054225 "LinkedIn")
-
 ## Code examples
 ```
 public class Multiply {
@@ -48,3 +43,10 @@ public class Multiply {
     }
 }
 ```
+
+
+## Contacts
+* _Phone_ +79220305690
+* _Email_ shalhoo88@gmail.com
+* _Telegram_ Sghagn
+* [_LinkedIn_](https://www.linkedin.com/in/aleksandra-penkina-815054225 "LinkedIn")
