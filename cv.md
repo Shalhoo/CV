@@ -17,13 +17,13 @@
 
 
 ## Education
-  1. University :
-    1.1 Moscow Aviation Institute
-    Institute №3 'Learning center of computer technology'
-  2. Courses:
-    2.2 HTML for Beginners [Code-basics](https://ru.code-basics.com/languages/html "Code-basics")
-    2.3 Learn to Code For The Web [Feature Learn](https://www.futurelearn.com/courses/learn-to-code-for-the-web "Feature Learn")
-    2.4 RS School stage #1 (in progress)
+1. University:
+1.1 Moscow Aviation Institute
+Institute №3 'Learning center of computer technology'
+2. Courses:
+2.2 HTML for Beginners [Code-basics](https://ru.code-basics.com/languages/html "Code-basics")
+2.3 Learn to Code For The Web [Feature Learn](https://www.futurelearn.com/courses/learn-to-code-for-the-web "Feature Learn")
+2.4 RS School stage #1 (in progress)
 
 
 ## Work experience -
